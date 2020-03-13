@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40ae2fd4-3879-453b-a29a-3e74ebfa8c8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testgit/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testgit/test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,14 +47,27 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java-practice\testgit\out" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Application.Fan">
+    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fan" />
+      <module name="testgit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
       <module name="testgit" />
@@ -61,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fan" />
         <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
@@ -87,7 +104,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583993234535</updated>
-      <workItem from="1583993238882" duration="3698000" />
+      <workItem from="1583993238882" duration="4165000" />
+      <workItem from="1584006331200" duration="1928000" />
+      <workItem from="1584019541690" duration="130000" />
+      <workItem from="1584019690701" duration="115000" />
+      <workItem from="1584019826895" duration="201000" />
+      <workItem from="1584020056070" duration="73000" />
+      <workItem from="1584020151865" duration="221000" />
+      <workItem from="1584020395518" duration="186000" />
+      <workItem from="1584020612803" duration="4019000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1583994016783</created>
@@ -110,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583994815276</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="C">
+      <created>1584004283504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584004283504</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +152,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="增加" />
     <MESSAGE value="复制" />
-    <option name="LAST_COMMIT_MESSAGE" value="复制" />
+    <MESSAGE value="C" />
+    <option name="LAST_COMMIT_MESSAGE" value="C" />
   </component>
   <component name="WindowStateProjectService">
     <state x="500" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583993728850">
@@ -131,18 +164,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="399" y="100" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583993665816" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1583994814045">
+    <state x="735" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1584058826176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1583994814045" />
+    <state x="735" y="104" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584058826176" />
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1584004282363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584004282363" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1584004248898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1584004248898" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1583994309230">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1584020585834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583994309230" />
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584020585834" />
     <state x="644" y="303" width="272" height="217" key="Github.ShareDialog" timestamp="1583994416731">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -151,10 +188,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="608" y="118" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583993410161" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1583994276883">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1584060356778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583994276883" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584060356778" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1584060356778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584060356778" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1584060356777">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584060356777" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1584060356778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584060356778" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1584020588940">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584020588940" />
     <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1583994857001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -167,9 +220,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="62" y="131" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1584004269990" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1584020614156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584020614156" />
     <state x="178" y="22" key="new project wizard" timestamp="1583993686232">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583993686232" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584058708629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584058708629" />
   </component>
 </project>
